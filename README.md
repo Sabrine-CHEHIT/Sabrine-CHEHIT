@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **data analysis techniques, including data cleaning, visualization, and exploratory analysis**
 
-- 👨‍💻 All of my projects are available at [[https://sabrine-chehit.github.io/PORTFOLIO/](https://sabrine-chehit.github.io/PORTFOLIO/)](https://sabrine-chehit.github.io/)
+- 👨‍💻 All of my projects are available at (https://sabrine-chehit.github.io/)
 
 - 💬 Ask me about **turning data into actionable insights**
 
